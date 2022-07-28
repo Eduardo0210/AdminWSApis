@@ -1,0 +1,275 @@
+
+Nueva Entrada : 07:02:40 a. m. miércoles, 29 de junio de 2022
+  Consulta: {"usuario":"admin","password":"F95EE52ED73A4D66F61FB9030B6C987C","idconex":1,"fechora":"220629070240","token":"91015FAD55C7C14326E0F5EFDA587935","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 07:02:40 a. m. miércoles, 29 de junio de 2022
+  Consulta: {"idusuario":1,"idcliente":0,"usuario":"USUARIO ADMINISTRADOR","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuCuenta","funcion":"Mi cuenta","padre":"General"},{"key":"mnuRfcCalculate","funcion":"Caluculadora RFC","padre":"Request"},{"key":"mnuHistorico","funcion":"CEPS","padre":"Request"},{"key":"mnuIneExtractorData","funcion":"Extracción datos Ine","padre":"Request"},{"key":"mnuPassportExtractData","funcion":"Extracción datos Pasaporte","padre":"Request"},{"key":"mnuRekognition","funcion":"Reconocimiento facial","padre":"Request"},{"key":"mnuValidityCurp","funcion":"Validación de Curp","padre":"Request"},{"key":"mnuValidityIne","funcion":"Validación Ine","padre":"Request"},{"key":"mnuValidityPassport","funcion":"Validación Pasaporte","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 07:02:41 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:03:08 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:06:51 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:08:10 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:13:30 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:13:41 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:14:18 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:18:41 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:23:16 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:27:34 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:29:52 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:30:33 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:34:09 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:34:09 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:34:20 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:34:25 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:35:01 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:35:44 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:36:26 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:39:01 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 07:39:24 a. m. miércoles, 29 de junio de 2022
+  Consulta: 
+     Error: ExecuteReader: no se ha inicializado la propiedad CommandText
+-------------------------------
+
+Nueva Entrada : 07:39:37 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:04:51 a. m. miércoles, 29 de junio de 2022
+  Consulta: {"usuario":"admin","password":"F95EE52ED73A4D66F61FB9030B6C987C","idconex":1,"fechora":"220629080450","token":"AF6D5848714406AC26655027B6B0B170","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:04:51 a. m. miércoles, 29 de junio de 2022
+  Consulta: {"idusuario":1,"idcliente":0,"usuario":"USUARIO ADMINISTRADOR","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuCuenta","funcion":"Mi cuenta","padre":"General"},{"key":"mnuRfcCalculate","funcion":"Caluculadora RFC","padre":"Request"},{"key":"mnuHistorico","funcion":"CEPS","padre":"Request"},{"key":"mnuIneExtractorData","funcion":"Extracción datos Ine","padre":"Request"},{"key":"mnuPassportExtractData","funcion":"Extracción datos Pasaporte","padre":"Request"},{"key":"mnuRekognition","funcion":"Reconocimiento facial","padre":"Request"},{"key":"mnuValidityCurp","funcion":"Validación de Curp","padre":"Request"},{"key":"mnuValidityIne","funcion":"Validación Ine","padre":"Request"},{"key":"mnuValidityPassport","funcion":"Validación Pasaporte","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:04:51 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:04:52 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:05:01 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:05:12 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:05:49 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:06:35 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:08:38 a. m. miércoles, 29 de junio de 2022
+  Consulta: {"usuario":"admin","password":"F95EE52ED73A4D66F61FB9030B6C987C","idconex":1,"fechora":"220629080838","token":"534F29E0A6D914709081CA85F57F26CC","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:08:38 a. m. miércoles, 29 de junio de 2022
+  Consulta: {"idusuario":1,"idcliente":0,"usuario":"USUARIO ADMINISTRADOR","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuCuenta","funcion":"Mi cuenta","padre":"General"},{"key":"mnuRfcCalculate","funcion":"Caluculadora RFC","padre":"Request"},{"key":"mnuHistorico","funcion":"CEPS","padre":"Request"},{"key":"mnuIneExtractorData","funcion":"Extracción datos Ine","padre":"Request"},{"key":"mnuPassportExtractData","funcion":"Extracción datos Pasaporte","padre":"Request"},{"key":"mnuRekognition","funcion":"Reconocimiento facial","padre":"Request"},{"key":"mnuValidityCurp","funcion":"Validación de Curp","padre":"Request"},{"key":"mnuValidityIne","funcion":"Validación Ine","padre":"Request"},{"key":"mnuValidityPassport","funcion":"Validación Pasaporte","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:08:39 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:08:40 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:08:46 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:12:01 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:12:07 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:13:20 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:13:53 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:17:06 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:19:35 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:19:40 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:20:21 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 08:20:35 a. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 12:33:24 p. m. miércoles, 29 de junio de 2022
+  Consulta: {"usuario":"admin","password":"F95EE52ED73A4D66F61FB9030B6C987C","idconex":1,"fechora":"220629123323","token":"D8CC5672ECDF1C4B9196F6775296CD6B","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 12:33:25 p. m. miércoles, 29 de junio de 2022
+  Consulta: {"idusuario":1,"idcliente":0,"usuario":"USUARIO ADMINISTRADOR","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuCuenta","funcion":"Mi cuenta","padre":"General"},{"key":"mnuRfcCalculate","funcion":"Caluculadora RFC","padre":"Request"},{"key":"mnuHistorico","funcion":"CEPS","padre":"Request"},{"key":"mnuIneExtractorData","funcion":"Extracción datos Ine","padre":"Request"},{"key":"mnuPassportExtractData","funcion":"Extracción datos Pasaporte","padre":"Request"},{"key":"mnuRekognition","funcion":"Reconocimiento facial","padre":"Request"},{"key":"mnuValidityCurp","funcion":"Validación de Curp","padre":"Request"},{"key":"mnuValidityIne","funcion":"Validación Ine","padre":"Request"},{"key":"mnuValidityPassport","funcion":"Validación Pasaporte","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 12:33:26 p. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 12:33:47 p. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 12:34:53 p. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 12:34:58 p. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 12:35:23 p. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 12:36:12 p. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 12:36:31 p. m. miércoles, 29 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------

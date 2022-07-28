@@ -1,0 +1,30 @@
+
+Nueva Entrada : 04:14:39 p. m. lunes, 27 de junio de 2022
+  Consulta: {"usuario":"fdelcollado.credi","password":"B4D86A2817A177EBDCCC7566CB235554","idconex":1,"fechora":"220627161438","token":"62EC1F32FD8722D838692DA69C217A28","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 04:14:41 p. m. lunes, 27 de junio de 2022
+  Consulta: {"idusuario":140,"idcliente":0,"usuario":"Francisco Cred Test","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuHistorico","funcion":"CEPS","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 04:14:51 p. m. lunes, 27 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 04:15:10 p. m. lunes, 27 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 04:15:18 p. m. lunes, 27 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------
+
+Nueva Entrada : 04:15:37 p. m. lunes, 27 de junio de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------

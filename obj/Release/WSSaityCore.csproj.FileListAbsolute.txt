@@ -1,0 +1,136 @@
+D:\VS2013\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll.config
+D:\VS2013\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll
+D:\VS2013\WSSaityCore\WSSaityCore\bin\WSSaityCore.pdb
+D:\VS2013\WSSaityCore\WSSaityCore\bin\Newtonsoft.Json.dll
+D:\VS2013\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.dll
+D:\VS2013\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.pdb
+D:\VS2013\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csprojResolveAssemblyReference.cache
+D:\VS2013\WSSaityCore\WSSaityCore\bin\itextsharp.dll
+D:\VS2013\WSSaityCore\WSSaityCore\bin\itextsharp.xml
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll.config
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\WSSaityCore.pdb
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\CrystalDecisions.ReportSource.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Shared.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\CrystalDecisions.VSDesigner.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Web.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\FlashControlV71.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Newtonsoft.Json.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\EnvDTE.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\VSLangProj.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\VsWebSite.Interop.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\EnvDTE80.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\stdole.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csproj.CoreCompileInputs.cache
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csproj.CopyComplete
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.pdb
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\bin\Microsoft.MSXML.dll
+C:\Users\edus9\source\repos\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csprojAssemblyReference.cache
+D:\MANGELO\LUIS\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll.config
+D:\MANGELO\LUIS\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll
+D:\MANGELO\LUIS\WSSaityCore\WSSaityCore\bin\WSSaityCore.pdb
+D:\MANGELO\LUIS\WSSaityCore\WSSaityCore\bin\Newtonsoft.Json.dll
+D:\MANGELO\LUIS\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csprojResolveAssemblyReference.cache
+D:\MANGELO\LUIS\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.dll
+D:\MANGELO\LUIS\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.pdb
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll.config
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\WSSaityCore.pdb
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Newtonsoft.Json.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.pdb
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.CrystalReports.Design.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Data.AdoDotNetInterop.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.ReportSource.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Shared.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.VSDesigner.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Web.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Windows.Forms.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\FlashControlV71.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\SAPBusinessObjects.WPF.Viewer.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\EnvDTE.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\VSLangProj.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\VsWebSite.Interop.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\EnvDTE80.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\stdole.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.MSXML.dll
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csprojAssemblyReference.cache
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csproj.CoreCompileInputs.cache
+D:\MANGELO\LUIS\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csproj.CopyComplete
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll.config
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\WSSaityCore.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\WSSaityCore.pdb
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Shared.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.VSDesigner.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Web.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\FlashControlV71.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Newtonsoft.Json.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\SAPBusinessObjects.WPF.Viewer.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\SAPBusinessObjects.WPF.ViewerShared.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\EnvDTE.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\VSLangProj.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\VsWebSite.Interop.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\EnvDTE80.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\stdole.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csprojAssemblyReference.cache
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.csproj.CopyComplete
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.dll
+C:\Users\Luis Alcántara\Documents\Beble\Produccion\WSSaityCore\WSSaityCore\obj\Release\WSSaityCore.pdb
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\WSSaityCore.dll.config
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\WSSaityCore.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\WSSaityCore.pdb
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\Newtonsoft.Json.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\EnvDTE.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\VSLangProj.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\VsWebSite.Interop.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\EnvDTE80.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\bin\stdole.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\obj\Release\WSSaityCore.csprojAssemblyReference.cache
+C:\Users\eduiw\Documents\beble\AdminWSApis\obj\Release\WSSaityCore.csproj.CoreCompileInputs.cache
+C:\Users\eduiw\Documents\beble\AdminWSApis\obj\Release\WSSaityCore.csproj.CopyComplete
+C:\Users\eduiw\Documents\beble\AdminWSApis\obj\Release\WSSaityCore.dll
+C:\Users\eduiw\Documents\beble\AdminWSApis\obj\Release\WSSaityCore.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WSSaityCore.FnSaity" CodeBehind="FnSaity.svc.cs" %>

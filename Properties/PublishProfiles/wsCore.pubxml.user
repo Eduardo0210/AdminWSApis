@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\WSSaityCoreApi</_PublishTargetUrl>
+    <History>True|2022-07-27T16:59:40.7455962Z;True|2022-07-26T10:40:52.7441088-05:00;True|2022-04-08T12:55:35.9211956-05:00;True|2021-09-24T12:05:55.3024522-05:00;True|2021-09-23T00:10:57.4609284-05:00;False|2021-09-23T00:03:24.4312004-05:00;True|2021-06-30T13:53:44.5098746-05:00;True|2021-06-25T06:37:33.3150873-05:00;True|2021-06-14T01:20:38.0420237-05:00;True|2021-06-14T01:15:44.3536702-05:00;False|2021-06-14T01:15:10.5632409-05:00;True|2021-06-14T00:04:09.1793204-05:00;True|2021-06-07T00:40:38.7971128-05:00;True|2021-06-07T00:39:02.2970289-05:00;True|2021-06-04T00:21:59.5532901-05:00;True|2021-06-03T17:41:06.7093324-05:00;True|2021-06-03T17:33:13.3966134-05:00;True|2021-06-03T11:49:49.8786799-05:00;False|2021-06-03T11:49:16.3231445-05:00;True|2021-06-03T10:36:37.2465864-05:00;True|2021-06-03T10:18:58.9906265-05:00;True|2021-06-03T10:13:45.8594550-05:00;True|2021-06-03T09:54:01.5077642-05:00;True|2021-06-03T01:23:40.5452862-05:00;True|2021-06-03T01:20:39.1469140-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CrystalDecisions.CrystalReports.Design.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.CrystalReports.Engine.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Data.AdoDotNetInterop.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.DataSetConversion.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportSource.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Shared.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.VSDesigner.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Web.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Windows.Forms.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/EnvDTE.dll">
+      <publishTime>05/24/2021 10:38:38</publishTime>
+    </File>
+    <File Include="bin/EnvDTE80.dll">
+      <publishTime>05/24/2021 10:38:38</publishTime>
+    </File>
+    <File Include="bin/FlashControlV71.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.MSXML.dll">
+      <publishTime>02/04/2021 18:49:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.OLE.Interop.dll">
+      <publishTime>05/24/2021 10:38:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.ProjectAggregator.dll">
+      <publishTime>02/04/2021 18:49:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.Shell.Interop.8.0.dll">
+      <publishTime>02/04/2021 18:49:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.Shell.Interop.dll">
+      <publishTime>05/24/2021 10:38:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.TemplateWizardInterface.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.TextManager.Interop.8.0.dll">
+      <publishTime>02/04/2021 18:49:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.TextManager.Interop.dll">
+      <publishTime>05/24/2021 10:38:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.VSHelp.dll">
+      <publishTime>02/04/2021 18:49:46</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/28/2016 13:22:24</publishTime>
+    </File>
+    <File Include="bin/SAPBusinessObjects.WPF.Viewer.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/SAPBusinessObjects.WPF.ViewerShared.dll">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="bin/stdole.dll">
+      <publishTime>05/24/2021 10:38:38</publishTime>
+    </File>
+    <File Include="bin/VSLangProj.dll">
+      <publishTime>05/24/2021 10:38:38</publishTime>
+    </File>
+    <File Include="bin/VsWebSite.Interop.dll">
+      <publishTime>05/24/2021 10:39:43</publishTime>
+    </File>
+    <File Include="bin/WSSaityCore.dll">
+      <publishTime>07/27/2022 11:59:40</publishTime>
+    </File>
+    <File Include="bin/WSSaityCore.pdb">
+      <publishTime>07/27/2022 11:59:40</publishTime>
+    </File>
+    <File Include="FnSaity.svc">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="Formatos/dtsDatosFolio.xsc">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="Formatos/dtsDatosFolio.xss">
+      <publishTime>05/27/2021 22:16:38</publishTime>
+    </File>
+    <File Include="Formatos/FnSaity.svc">
+      <publishTime>04/07/2019 12:50:33</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>06/03/2021 17:17:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/26/2022 10:40:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

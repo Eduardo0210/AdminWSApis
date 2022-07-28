@@ -1,0 +1,15 @@
+
+Nueva Entrada : 01:37:42 p. m. sábado, 10 de agosto de 2019
+  Consulta: {"datos":[{"snombre":"MIGUEL ANGEL","sapaterno":"GRANADOS","samaterno":"BALDERAS","sfolio":"TESTTEK01","scelular":"5528576965","smail":"miguel.granados@saity.mx","documentos":[{"idDocumento":1,"solicitado":"1"},{"idDocumento":16,"solicitado":"1"},{"idDocumento":17,"solicitado":"0"}]},{"snombre":"VERO","sapaterno":"VELAZQUEZ","samaterno":"REYES","sfolio":"TESTTEK02","scelular":"5576954937","smail":"miguel.granados@saity.mx","documentos":[{"idDocumento":1,"solicitado":"0"},{"idDocumento":16,"solicitado":"1"},{"idDocumento":17,"solicitado":"1"}]}],"idEsquema":1,"idconex":1,"fechora":"190810133343","token":"E2FEBF3FF3EC8DB4A3CCED44D0669B11","idusuario":1}
+     Error: FnRegistraMasivo
+-------------------------------
+
+Nueva Entrada : 01:37:51 p. m. sábado, 10 de agosto de 2019
+  Consulta: El Token ya Expiro
+     Error: {"datos":[{"snombre":"MIGUEL ANGEL","sapaterno":"GRANADOS","samaterno":"BALDERAS","sfolio":"TESTTEK01","scelular":"5528576965","smail":"miguel.granados@saity.mx","documentos":[{"idDocumento":1,"solicitado":"1"},{"idDocumento":16,"solicitado":"1"},{"idDocumento":17,"solicitado":"0"}]},{"snombre":"VERO","sapaterno":"VELAZQUEZ","samaterno":"REYES","sfolio":"TESTTEK02","scelular":"5576954937","smail":"miguel.granados@saity.mx","documentos":[{"idDocumento":1,"solicitado":"0"},{"idDocumento":16,"solicitado":"1"},{"idDocumento":17,"solicitado":"1"}]}],"idEsquema":1,"idconex":1,"fechora":"190810133343","token":"E2FEBF3FF3EC8DB4A3CCED44D0669B11","idusuario":1}
+-------------------------------
+
+Nueva Entrada : 01:38:29 p. m. sábado, 10 de agosto de 2019
+  Consulta: {"datos":[{"snombre":"MIGUEL ANGEL","sapaterno":"GRANADOS","samaterno":"BALDERAS","sfolio":"TESTTEK01","scelular":"5528576965","smail":"miguel.granados@saity.mx","documentos":[{"idDocumento":1,"solicitado":"1"},{"idDocumento":16,"solicitado":"1"},{"idDocumento":17,"solicitado":"0"}]},{"snombre":"VERO","sapaterno":"VELAZQUEZ","samaterno":"REYES","sfolio":"TESTTEK02","scelular":"5576954937","smail":"miguel.granados@saity.mx","documentos":[{"idDocumento":1,"solicitado":"0"},{"idDocumento":16,"solicitado":"1"},{"idDocumento":17,"solicitado":"1"}]}],"idEsquema":1,"idconex":1,"fechora":"190810133343","token":"E2FEBF3FF3EC8DB4A3CCED44D0669B11","idusuario":1}
+     Error: FnRegistraMasivo
+-------------------------------

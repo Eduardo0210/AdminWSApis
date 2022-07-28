@@ -1,0 +1,109 @@
+
+Nueva Entrada : 10:36:25 a. m. lunes, 21 de octubre de 2019
+  Consulta: Conexión a la Base
+     Error: Login failed for user 'dboSaity'.
+-------------------------------
+
+Nueva Entrada : 10:45:52 a. m. lunes, 21 de octubre de 2019
+  Consulta: Exec PCREPORTEDICTAMEN '2019-07-02', '2019-10-15', 0 ,0
+     Error: No se encontró el procedimiento almacenado 'PCREPORTEDICTAMEN'.
+-------------------------------
+
+Nueva Entrada : 11:40:06 a. m. lunes, 21 de octubre de 2019
+  Consulta: Conexión a la Base
+     Error: Cannot open database "SAITY" requested by the login. The login failed.
+Login failed for user 'sa'.
+-------------------------------
+
+Nueva Entrada : 02:05:24 p. m. lunes, 21 de octubre de 2019
+  Consulta: 
+     Error: FnReporteSMSEnviados
+-------------------------------
+
+Nueva Entrada : 02:05:24 p. m. lunes, 21 de octubre de 2019
+  Consulta: El valor no puede ser nulo.
+Nombre del parámetro: input
+     Error: 
+-------------------------------
+
+Nueva Entrada : 02:05:36 p. m. lunes, 21 de octubre de 2019
+  Consulta: {
+     Error: FnReporteSMSEnviados
+-------------------------------
+
+Nueva Entrada : 02:05:36 p. m. lunes, 21 de octubre de 2019
+  Consulta: Se ha pasado un objeto no válido. Se esperaba ':' o '}'. (1): {
+     Error: {
+-------------------------------
+
+Nueva Entrada : 02:06:43 p. m. lunes, 21 de octubre de 2019
+  Consulta: { "fecinicio" : "01/08/2019","fecfin" : "01/10/2019" ,"idcliente" : 0,"idesquema" : 0}
+     Error: FnReporteSMSEnviados
+-------------------------------
+
+Nueva Entrada : 02:06:43 p. m. lunes, 21 de octubre de 2019
+  Consulta: La Fecha del Token no tiene la sintaxis correcta, se debe enviar en formato yyMMddHHmmss
+     Error: { "fecinicio" : "01/08/2019","fecfin" : "01/10/2019" ,"idcliente" : 0,"idesquema" : 0}
+-------------------------------
+
+Nueva Entrada : 02:18:34 p. m. lunes, 21 de octubre de 2019
+  Consulta: { "fecinicio" : "01/08/2019","fecfin" : "01/10/2019" ,"idcliente" : 0,"idesquema" : 0} 
+     Error: FnReporteSMSEnviados
+-------------------------------
+
+Nueva Entrada : 02:18:34 p. m. lunes, 21 de octubre de 2019
+  Consulta: La Fecha del Token no tiene la sintaxis correcta, se debe enviar en formato yyMMddHHmmss
+     Error: { "fecinicio" : "01/08/2019","fecfin" : "01/10/2019" ,"idcliente" : 0,"idesquema" : 0} 
+-------------------------------
+
+Nueva Entrada : 02:19:29 p. m. lunes, 21 de octubre de 2019
+  Consulta: { "fecinicio" : "01/08/2019","fecfin" : "01/10/2019" ,"idcliente" : 0,"idesquema" : 0} 
+     Error: FnReporteSMSEnviados
+-------------------------------
+
+Nueva Entrada : 02:19:58 p. m. lunes, 21 de octubre de 2019
+  Consulta: Ocurrio un error al obtener la información para generar el entregable
+     Error: { "fecinicio" : "01/08/2019","fecfin" : "01/10/2019" ,"idcliente" : 0,"idesquema" : 0} 
+-------------------------------
+
+Nueva Entrada : 02:20:30 p. m. lunes, 21 de octubre de 2019
+  Consulta: 
+     Error: FnReporteSMSEnviados
+-------------------------------
+
+Nueva Entrada : 02:20:30 p. m. lunes, 21 de octubre de 2019
+  Consulta: El valor no puede ser nulo.
+Nombre del parámetro: input
+     Error: 
+-------------------------------
+
+Nueva Entrada : 02:20:59 p. m. lunes, 21 de octubre de 2019
+  Consulta: 
+     Error: FnReporteSMSEnviados
+-------------------------------
+
+Nueva Entrada : 02:20:59 p. m. lunes, 21 de octubre de 2019
+  Consulta: El valor no puede ser nulo.
+Nombre del parámetro: input
+     Error: 
+-------------------------------
+
+Nueva Entrada : 02:21:14 p. m. lunes, 21 de octubre de 2019
+  Consulta: { "fecinicio" : "01/08/2019","fecfin" : "01/10/2019" ,"idcliente" : 0,"idesquema" : 0} 
+     Error: FnReporteSMSEnviados
+-------------------------------
+
+Nueva Entrada : 02:22:14 p. m. lunes, 21 de octubre de 2019
+  Consulta: Ocurrio un error al obtener la información para generar el entregable
+     Error: { "fecinicio" : "01/08/2019","fecfin" : "01/10/2019" ,"idcliente" : 0,"idesquema" : 0} 
+-------------------------------
+
+Nueva Entrada : 02:22:31 p. m. lunes, 21 de octubre de 2019
+  Consulta: { "fecinicio" : "01/08/2019","fecfinal" : "01/10/2019" ,"idcliente" : 0,"idesquema" : 0}  
+     Error: FnReporteSMSEnviados
+-------------------------------
+
+Nueva Entrada : 02:22:40 p. m. lunes, 21 de octubre de 2019
+  Consulta: {"columnas":["cliente","postitivos","negativos","telincorrecto","vencefolio","otrascanc","totales","porcterm","porcterm1"],"datos":"[{\"cliente\":\"BURO DE CREDITO\",\"postitivos\":134,\"negativos\":67,\"telincorrecto\":20,\"vencefolio\":104,\"otrascanc\":12,\"totales\":404,\"porcterm\":\"66,3\",\"porcterm1\":\"33,7\"},{\"cliente\":\"CITIBAMEX SEGUROS\",\"postitivos\":0,\"negativos\":0,\"telincorrecto\":0,\"vencefolio\":8,\"otrascanc\":0,\"totales\":8,\"porcterm\":\"0,0\",\"porcterm1\":\"100,0\"},{\"cliente\":\"CREDITEA\",\"postitivos\":356,\"negativos\":178,\"telincorrecto\":500,\"vencefolio\":8300,\"otrascanc\":1956,\"totales\":11468,\"porcterm\":\"6,2\",\"porcterm1\":\"93,8\"},{\"cliente\":\"LIVERPOOL - SUBURBIA\",\"postitivos\":2,\"negativos\":1,\"telincorrecto\":12,\"vencefolio\":32,\"otrascanc\":0,\"totales\":48,\"porcterm\":\"8,3\",\"porcterm1\":\"91,7\"},{\"cliente\":\"LIVERPOOL - VERIFICACION DOMICILIARIA SB\",\"postitivos\":2,\"negativos\":1,\"telincorrecto\":0,\"vencefolio\":16,\"otrascanc\":0,\"totales\":20,\"porcterm\":\"20,0\",\"porcterm1\":\"80,0\"},{\"cliente\":\"MANPOWER\",\"postitivos\":2,\"negativos\":1,\"telincorrecto\":0,\"vencefolio\":8,\"otrascanc\":0,\"totales\":12,\"porcterm\":\"33,3\",\"porcterm1\":\"66,7\"},{\"cliente\":\"PALACIO DE HIERRO - TDC PALACIO 2 DOMICILIOS\",\"postitivos\":2,\"negativos\":1,\"telincorrecto\":0,\"vencefolio\":8,\"otrascanc\":0,\"totales\":12,\"porcterm\":\"33,3\",\"porcterm1\":\"66,7\"},{\"cliente\":\"SAITY - SIMULADOR BURO DE CREDITO\",\"postitivos\":0,\"negativos\":0,\"telincorrecto\":0,\"vencefolio\":12,\"otrascanc\":0,\"totales\":12,\"porcterm\":\"0,0\",\"porcterm1\":\"100,0\"},{\"cliente\":\"SAITY - SIMULADOR CREDITEA\",\"postitivos\":2,\"negativos\":1,\"telincorrecto\":0,\"vencefolio\":16,\"otrascanc\":0,\"totales\":20,\"porcterm\":\"20,0\",\"porcterm1\":\"80,0\"},{\"cliente\":\"SAITY - SIMULADOR SUBURBIA\",\"postitivos\":2,\"negativos\":1,\"telincorrecto\":0,\"vencefolio\":12,\"otrascanc\":0,\"totales\":16,\"porcterm\":\"25,0\",\"porcterm1\":\"75,0\"},{\"cliente\":\"SAITY - SIMULADOR VERIFICACION DOMICILIARIA SB\",\"postitivos\":0,\"negativos\":0,\"telincorrecto\":0,\"vencefolio\":12,\"otrascanc\":0,\"totales\":12,\"porcterm\":\"0,0\",\"porcterm1\":\"100,0\"}]","estatus":0,"mensaje":"Exito"}
+     Error: FnReporteSMSEnviados
+-------------------------------

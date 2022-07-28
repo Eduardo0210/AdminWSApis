@@ -1,0 +1,42 @@
+
+Nueva Entrada : 12:15:36 a. m. martes, 29 de octubre de 2019
+  Consulta: 
+     Error: FnReporeConsumos
+-------------------------------
+
+Nueva Entrada : 12:15:36 a. m. martes, 29 de octubre de 2019
+  Consulta: El valor no puede ser nulo.
+Nombre del parámetro: input
+     Error: 
+-------------------------------
+
+Nueva Entrada : 12:15:53 a. m. martes, 29 de octubre de 2019
+  Consulta: 
+     Error: FnReporeConsumos
+-------------------------------
+
+Nueva Entrada : 12:15:53 a. m. martes, 29 de octubre de 2019
+  Consulta: El valor no puede ser nulo.
+Nombre del parámetro: input
+     Error: 
+-------------------------------
+
+Nueva Entrada : 01:13:26 a. m. martes, 29 de octubre de 2019
+  Consulta: Conexión a la Base
+     Error: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+-------------------------------
+
+Nueva Entrada : 01:15:57 a. m. martes, 29 de octubre de 2019
+  Consulta: Conexión a la Base
+     Error: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+-------------------------------
+
+Nueva Entrada : 01:21:55 a. m. martes, 29 de octubre de 2019
+  Consulta: Conexión a la Base
+     Error: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+-------------------------------
+
+Nueva Entrada : 01:23:57 a. m. martes, 29 de octubre de 2019
+  Consulta: Conexión a la Base
+     Error: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: SQL Network Interfaces, error: 26 - Error al buscar el servidor o instancia especificado)
+-------------------------------

@@ -1,0 +1,10 @@
+
+Nueva Entrada : 11:21:37 a. m. martes, 22 de octubre de 2019
+  Consulta: {"clientes":[{"idcliente":1,"cliente":"CREDITEA"},{"idcliente":2,"cliente":"LIVERPOOL"},{"idcliente":3,"cliente":"BURO DE CREDITO"},{"idcliente":4,"cliente":"PALACIO DE HIERRO"},{"idcliente":5,"cliente":"SAITY"},{"idcliente":6,"cliente":"CITIBAMEX SEGUROS"},{"idcliente":7,"cliente":"MANPOWER"},{"idcliente":8,"cliente":"ALANA"}],"estatus":0,"mensaje":"Exito"}
+     Error: FnObtenerEsquemas
+-------------------------------
+
+Nueva Entrada : 01:30:39 p. m. martes, 22 de octubre de 2019
+  Consulta: {"esquemas":[{"idesquema":6,"esquema":"SIMULADOR CREDITEA"},{"idesquema":7,"esquema":"SIMULADOR SUBURBIA"},{"idesquema":8,"esquema":"SIMULADOR BURO DE CREDITO"},{"idesquema":10,"esquema":"SIMULADOR VERIFICACION DOMICILIARIA SB"}],"estatus":0,"mensaje":"Exito"}
+     Error: FnObtenerEsquemaReporte
+-------------------------------

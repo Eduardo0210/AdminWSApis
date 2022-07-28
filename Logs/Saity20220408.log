@@ -1,0 +1,15 @@
+
+Nueva Entrada : 01:00:52 p. m. viernes, 8 de abril de 2022
+  Consulta: {"usuario":"admin","password":"F95EE52ED73A4D66F61FB9030B6C987C","idconex":1,"fechora":"220408130049","token":"A1B2C0F29417E2879AF7BB49F3900DCC","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 01:00:54 p. m. viernes, 8 de abril de 2022
+  Consulta: {"idusuario":1,"idcliente":0,"usuario":"USUARIO ADMINISTRADOR","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuCuenta","funcion":"Mi cuenta","padre":"General"},{"key":"mnuHistorico","funcion":"Mis peticiones","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 01:00:55 p. m. viernes, 8 de abril de 2022
+  Consulta: Registro de sms
+     Error: FnRegistrarMensaje
+-------------------------------

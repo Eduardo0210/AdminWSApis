@@ -1,0 +1,60 @@
+
+Nueva Entrada : 07:12:48 a. m. lunes, 18 de mayo de 2020
+  Consulta: {"idresultado":4,"idcausa":1,"observac":"Excelente","sfolio":"TM1200515005825","idconex":1,"fechora":"200518071109","token":"EC273F30F21E270FF3BCE592028C5CA8","idusuario":1}
+     Error: FnDictamenFolio
+-------------------------------
+
+Nueva Entrada : 07:13:07 a. m. lunes, 18 de mayo de 2020
+  Consulta: Conexión a la Base
+     Error: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+-------------------------------
+
+Nueva Entrada : 07:13:12 a. m. lunes, 18 de mayo de 2020
+  Consulta: Referencia a objeto no establecida como instancia de un objeto.
+     Error: {"idresultado":4,"idcausa":1,"observac":"Excelente","sfolio":"TM1200515005825","idconex":1,"fechora":"200518071109","token":"EC273F30F21E270FF3BCE592028C5CA8","idusuario":1}
+-------------------------------
+
+Nueva Entrada : 07:13:42 a. m. lunes, 18 de mayo de 2020
+  Consulta: {"idresultado":4,"idcausa":1,"observac":"Excelente","sfolio":"TM1200515005825","idconex":1,"fechora":"200518071109","token":"EC273F30F21E270FF3BCE592028C5CA8","idusuario":1}
+     Error: FnDictamenFolio
+-------------------------------
+
+Nueva Entrada : 07:15:15 a. m. lunes, 18 de mayo de 2020
+  Consulta: Conexión a la Base
+     Error: Error relacionado con la red o específico de la instancia mientras se establecía una conexión con el servidor SQL Server. No se encontró el servidor o éste no estaba accesible. Compruebe que el nombre de la instancia es correcto y que SQL Server está configurado para admitir conexiones remotas. (provider: Named Pipes Provider, error: 40 - No se pudo abrir una conexión con SQL Server)
+-------------------------------
+
+Nueva Entrada : 07:19:39 a. m. lunes, 18 de mayo de 2020
+  Consulta: {"idresultado":4,"idcausa":1,"observac":"Excelente","sfolio":"TM1200515005825","idconex":1,"fechora":"200518071853","token":"B52673C4830F5A2A6A5C5017720C31A0","idusuario":1}
+     Error: FnDictamenFolio
+-------------------------------
+
+Nueva Entrada : 07:24:42 a. m. lunes, 18 de mayo de 2020
+  Consulta: {"idresultado":4,"idcausa":1,"observac":"Excelente","sfolio":"TM1200515005825","idconex":1,"fechora":"200518071853","token":"B52673C4830F5A2A6A5C5017720C31A0","idusuario":1}
+     Error: FnDictamenFolio
+-------------------------------
+
+Nueva Entrada : 07:27:47 a. m. lunes, 18 de mayo de 2020
+  Consulta: C:\inetpub\wwwroot/entregable/TM1200515005825.pdf
+     Error: GenerarEntregablePDF Path File
+-------------------------------
+
+Nueva Entrada : 07:27:50 a. m. lunes, 18 de mayo de 2020
+  Consulta: No se puede encontrar una parte de la ruta de acceso 'C:\inetpub\wwwroot\entregable\TM1200515005825.pdf'.
+     Error: GenerarEntregablePDF Gen PDF
+-------------------------------
+
+Nueva Entrada : 07:27:50 a. m. lunes, 18 de mayo de 2020
+  Consulta: {"estatus":0,"mensaje":"Exito"}
+     Error: FnDictamenFolio
+-------------------------------
+
+Nueva Entrada : 07:31:30 a. m. lunes, 18 de mayo de 2020
+  Consulta: {"idresultado":4,"idcausa":1,"observac":"Excelente","sfolio":"TM1200515005825","idconex":1,"fechora":"200518071853","token":"B52673C4830F5A2A6A5C5017720C31A0","idusuario":1}
+     Error: FnDictamenFolio
+-------------------------------
+
+Nueva Entrada : 07:33:06 a. m. lunes, 18 de mayo de 2020
+  Consulta: C:\inetpub\wwwroot/entregable/TM1200515005825.pdf
+     Error: GenerarEntregablePDF Path File
+-------------------------------

@@ -1,0 +1,40 @@
+
+Nueva Entrada : 08:07:34 a. m. viernes, 1 de octubre de 2021
+  Consulta: {"usuario":"admin","password":"F95EE52ED73A4D66F61FB9030B6C987C","idconex":1,"fechora":"211001080734","token":"DBC8EB6341E3B73D3020D4FD576BC461","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:07:34 a. m. viernes, 1 de octubre de 2021
+  Consulta: {"idusuario":1,"idcliente":0,"usuario":"USUARIO ADMINISTRADOR","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuCuenta","funcion":"Mi cuenta","padre":"General"},{"key":"mnuHistorico","funcion":"Mis peticiones","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:07:46 a. m. viernes, 1 de octubre de 2021
+  Consulta: {"usuario":"admin","password":"F95EE52ED73A4D66F61FB9030B6C987C","idconex":1,"fechora":"211001080746","token":"18689374DD88B07DB739CE0D6D95DCA5","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:07:46 a. m. viernes, 1 de octubre de 2021
+  Consulta: {"idusuario":1,"idcliente":0,"usuario":"USUARIO ADMINISTRADOR","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuCuenta","funcion":"Mi cuenta","padre":"General"},{"key":"mnuHistorico","funcion":"Mis peticiones","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:08:08 a. m. viernes, 1 de octubre de 2021
+  Consulta: {"usuario":"admin","password":"F95EE52ED73A4D66F61FB9030B6C987C","idconex":1,"fechora":"211001080808","token":"ECFDD4E57E59883C0A22D7620DE17D19","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:08:08 a. m. viernes, 1 de octubre de 2021
+  Consulta: {"idusuario":1,"idcliente":0,"usuario":"USUARIO ADMINISTRADOR","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuCuenta","funcion":"Mi cuenta","padre":"General"},{"key":"mnuHistorico","funcion":"Mis peticiones","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:08:30 a. m. viernes, 1 de octubre de 2021
+  Consulta: {"usuario":"admin","password":"F95EE52ED73A4D66F61FB9030B6C987C","idconex":1,"fechora":"211001080830","token":"72D8CF4F74F744416B2661B0722EF517","idusuario":0}
+     Error: FnValidaUsuario
+-------------------------------
+
+Nueva Entrada : 08:08:30 a. m. viernes, 1 de octubre de 2021
+  Consulta: {"idusuario":1,"idcliente":0,"usuario":"USUARIO ADMINISTRADOR","clientepadre":0,"facultades":[{"key":"mnuGenerales","funcion":"Dashboard","padre":"General"},{"key":"mnuCuenta","funcion":"Mi cuenta","padre":"General"},{"key":"mnuHistorico","funcion":"Mis peticiones","padre":"Request"}],"idClienteEspecifico":0,"estatus":0,"mensaje":"EXITO"}
+     Error: FnValidaUsuario
+-------------------------------
