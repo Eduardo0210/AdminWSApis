@@ -2548,6 +2548,8 @@ namespace WSSaityCore
 
                 respuesta.Add(dtInfo.Rows[0][0].ToString());
                 respuesta.Add(dtInfo.Rows[0][1].ToString());
+                respuesta.Add(dtInfo.Rows[0][2].ToString());
+
             }
             catch (Exception e)
             {
@@ -2557,7 +2559,7 @@ namespace WSSaityCore
         }
 
 
-        public string saveUnreadableName(int idTRack,string nombres, string primerApellido,string segundoApellido)
+        public string saveUnreadableName(int idTRack,string nombres, string primerApellido,string segundoApellido,int kiidEncargado)
         {
             string respuesta = "";
 
@@ -2566,7 +2568,7 @@ namespace WSSaityCore
                 if (FnSeguridad.ObtenerValor("bDebug").ToString() == "1")
                     (new FnConxBD()).RegistraError("FnRegistrarMensaje", "Registro de sms");
 
-                string sQry = string.Format("Exec PA_EXT_SETNAMEFROMIMAGE {0},'{1}','{2}','{3}'", idTRack,nombres,primerApellido,segundoApellido);
+                string sQry = string.Format("Exec PA_EXT_SETNAMEFROMIMAGE {0},'{1}','{2}','{3}',{4}", idTRack,nombres,primerApellido,segundoApellido,kiidEncargado);
                 DataTable dtInfo = (new FnConxBD()).ObtenerTabla(sQry);
 
 

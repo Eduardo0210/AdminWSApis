@@ -277,6 +277,6 @@ namespace WSSaityCore
         [OperationContract]
         List<string> FnObteneRB64DoctoIlegible(int idTRack);
         [OperationContract]
-        string saveUnreadableName(int idTRack, string nombres, string primerApellido, string segundoApellido);
+        string saveUnreadableName(int idTRack, string nombres, string primerApellido, string segundoApellido,int kiidEncargado);
     };
 }

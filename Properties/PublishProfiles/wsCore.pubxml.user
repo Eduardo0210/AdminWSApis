@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_PublishTargetUrl>C:\inetpub\wwwroot\WSSaityCoreApi</_PublishTargetUrl>
-    <History>True|2022-07-27T16:59:40.7455962Z;True|2022-07-26T10:40:52.7441088-05:00;True|2022-04-08T12:55:35.9211956-05:00;True|2021-09-24T12:05:55.3024522-05:00;True|2021-09-23T00:10:57.4609284-05:00;False|2021-09-23T00:03:24.4312004-05:00;True|2021-06-30T13:53:44.5098746-05:00;True|2021-06-25T06:37:33.3150873-05:00;True|2021-06-14T01:20:38.0420237-05:00;True|2021-06-14T01:15:44.3536702-05:00;False|2021-06-14T01:15:10.5632409-05:00;True|2021-06-14T00:04:09.1793204-05:00;True|2021-06-07T00:40:38.7971128-05:00;True|2021-06-07T00:39:02.2970289-05:00;True|2021-06-04T00:21:59.5532901-05:00;True|2021-06-03T17:41:06.7093324-05:00;True|2021-06-03T17:33:13.3966134-05:00;True|2021-06-03T11:49:49.8786799-05:00;False|2021-06-03T11:49:16.3231445-05:00;True|2021-06-03T10:36:37.2465864-05:00;True|2021-06-03T10:18:58.9906265-05:00;True|2021-06-03T10:13:45.8594550-05:00;True|2021-06-03T09:54:01.5077642-05:00;True|2021-06-03T01:23:40.5452862-05:00;True|2021-06-03T01:20:39.1469140-05:00;</History>
+    <History>True|2022-09-25T06:05:19.2708928Z;False|2022-09-25T01:04:53.5571379-05:00;True|2022-09-25T00:55:38.7628375-05:00;True|2022-07-27T11:59:40.7455962-05:00;True|2022-07-26T10:40:52.7441088-05:00;True|2022-04-08T12:55:35.9211956-05:00;True|2021-09-24T12:05:55.3024522-05:00;True|2021-09-23T00:10:57.4609284-05:00;False|2021-09-23T00:03:24.4312004-05:00;True|2021-06-30T13:53:44.5098746-05:00;True|2021-06-25T06:37:33.3150873-05:00;True|2021-06-14T01:20:38.0420237-05:00;True|2021-06-14T01:15:44.3536702-05:00;False|2021-06-14T01:15:10.5632409-05:00;True|2021-06-14T00:04:09.1793204-05:00;True|2021-06-07T00:40:38.7971128-05:00;True|2021-06-07T00:39:02.2970289-05:00;True|2021-06-04T00:21:59.5532901-05:00;True|2021-06-03T17:41:06.7093324-05:00;True|2021-06-03T17:33:13.3966134-05:00;True|2021-06-03T11:49:49.8786799-05:00;False|2021-06-03T11:49:16.3231445-05:00;True|2021-06-03T10:36:37.2465864-05:00;True|2021-06-03T10:18:58.9906265-05:00;True|2021-06-03T10:13:45.8594550-05:00;True|2021-06-03T09:54:01.5077642-05:00;True|2021-06-03T01:23:40.5452862-05:00;True|2021-06-03T01:20:39.1469140-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/CrystalDecisions.CrystalReports.Design.dll">
@@ -95,10 +95,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/24/2021 10:39:43</publishTime>
     </File>
     <File Include="bin/WSSaityCore.dll">
-      <publishTime>07/27/2022 11:59:40</publishTime>
+      <publishTime>09/25/2022 01:05:19</publishTime>
     </File>
     <File Include="bin/WSSaityCore.pdb">
-      <publishTime>07/27/2022 11:59:40</publishTime>
+      <publishTime>09/25/2022 01:05:19</publishTime>
     </File>
     <File Include="FnSaity.svc">
       <publishTime>05/27/2021 22:16:38</publishTime>
@@ -107,7 +107,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/27/2021 22:16:38</publishTime>
     </File>
     <File Include="Formatos/dtsDatosFolio.xss">
-      <publishTime>05/27/2021 22:16:38</publishTime>
+      <publishTime>07/28/2022 11:22:35</publishTime>
     </File>
     <File Include="Formatos/FnSaity.svc">
       <publishTime>04/07/2019 12:50:33</publishTime>
@@ -116,7 +116,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/03/2021 17:17:47</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/26/2022 10:40:52</publishTime>
+      <publishTime>07/28/2022 11:22:35</publishTime>
     </File>
   </ItemGroup>
 </Project>
